@@ -8,7 +8,6 @@ The primary dataset for this analysis is financial_loan.csv file, containing dee
 
 #### Tools
 - Excel -data cleaning
-  - [download_here](https://drive.google.com/drive/folder...)
 - SQL server -data analysis
 - Power Bi - creating a report
 
